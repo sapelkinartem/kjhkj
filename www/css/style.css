@@ -1,0 +1,29 @@
+/* ==== Reset start ==== */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    color: #212121;
+    font: 12px/1;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+ul, ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+button {
+    outline: none;
+    cursor: pointer;
+}
+img {
+    min-width: 100%;
+}
+/* ==== Reset end ==== */
